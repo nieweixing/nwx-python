@@ -38,3 +38,5 @@ while True:
         db.close()
         sys.exit()
 del count
+
+print("test git")
