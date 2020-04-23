@@ -1,0 +1,5 @@
+2020-04-21 21:17:16,726 - simple_example - DEBUG - debug message
+2020-04-21 21:17:16,726 - simple_example - INFO - info message
+2020-04-21 21:17:16,727 - simple_example - WARNING - warn message
+2020-04-21 21:17:16,728 - simple_example - ERROR - error message
+2020-04-21 21:17:16,728 - simple_example - CRITICAL - critical message
