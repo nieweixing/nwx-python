@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:/Users/nieweixing/Desktop/python/study/exception/my04.py", line 18, in <module>
+    c = float(a)/float(b)
+ZeroDivisionError: float division by zero
