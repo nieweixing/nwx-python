@@ -12,10 +12,15 @@
 # here put the import lib
 
 import os
+import multiprocessing
 
-path = os.getcwd()
 
-dir_list = os.walk(path)
+# path = os.getcwd()
 
-for dirpath, dirnames, filenames in dir_list:
-    print(dirpath)
+# dir_list = os.walk(path)
+
+# for dirpath, dirnames, filenames in dir_list:
+#     print(dirpath)
+
+
+print(multiprocessing.cpu_count())
